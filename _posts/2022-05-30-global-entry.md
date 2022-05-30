@@ -20,7 +20,7 @@ The program also includes TSA PreCheck membership ($85 for 5 years), which gives
 
 #### Students with a Form I-20
 
-If you are on a F-1 visa and use a Global Entry kiosk to enter the U.S., your receipt will be invalid and show "REPORT TO PASSPORT CONTROL" as your Form I-20 must be manually inspected. Proceed through the Global Entry queue and a CBP agent will inspect your passport, visa and Form I-20.
+If you are on a F-1 visa and use a Global Entry kiosk to enter the U.S., your receipt will be invalid and show "REPORT TO PASSPORT CONTROL" as your Form I-20 must be manually inspected. Proceed through the Global Entry queue and a CBP agent will inspect your passport, visa, and Form I-20.
 
 **Note:** If you have to go through the regular passport control queue, you will likely be cut to the front of the line.
 
@@ -73,7 +73,7 @@ After your application is reviewed, if you are eligible for Global Entry, your a
 
     **Note:** For UIUC students, the Chicago Enrollment Center is nearby and easily accessible from Chicago Union Station.
 
-2. On the smae website, print your Conditional Approval letter.
+2. On the same website, print your Conditional Approval letter.
 
 3. Bring the Required Documents listed earlier and your Conditional Approval letter to your interview.
 
