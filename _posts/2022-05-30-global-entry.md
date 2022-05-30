@@ -1,5 +1,7 @@
 ## Getting Global Entry and TSA PreCheck as an international student.
 
+### What's Global Entry?
+
 Global Entry is a U.S. CBP program that allows expedited entry when flying into the United States through automated kiosks. It is available to U.S. citizens, U.S. permanent residents, and citizens of countries listed [here](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry/eligibility).
 
 There is a non-refundable $100 application fee for a 5-year membership, and all applicants are subject to a background check and interview. There may be additional requirements based on your nationality listed [here](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry/international-arrangements).
@@ -11,6 +13,8 @@ The program also includes TSA PreCheck membership ($85 for 5 years), which gives
 **Warning:** Based on your nationality, you may have to complete additional pre-application steps in your home country before you can submit the Global Entry application.
 
 **Warning:** Since the pre-interview application review process can take 90 days or more, submit your application as early as possible if you intend to complete the interview when you next enter the U.S. (Enrollment on Arrival).
+
+---
 
 ### Caveats
 
@@ -27,6 +31,8 @@ If you are on a F-1 visa and use a Global Entry kiosk to enter the U.S., your re
 1. Check your Form I-94 travel history approximately 3 days after entry [here](https://i94.cbp.dhs.gov/).
 2. If it is not updated with your latest entry into the U.S., find the contact information of your nearest CBP Deferred Inspection Site [here](https://www.cbp.gov/contact/ports/deferred-inspection-sites).
 3. Email the Deferred Inspection Site to request an I-94 correction, stating that you entered the U.S. using Global Entry, but your Form I-94 has not been updated. Specify your date of entry, and attach a copy of your passport, U.S. visa, and Form I-20.
+
+---
 
 ### Applying for Global Entry as an International Student
 
@@ -82,7 +88,9 @@ After your application is reviewed, if you are eligible for Global Entry, your a
 
 **Note:** The interview is brief, and the process should take approximately 30 minutes.
 
-#### After being approved for Global Entry
+---
+
+### After being approved for Global Entry
 
 Using TSA PreCheck:
 
